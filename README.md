@@ -1,4 +1,4 @@
-lorisduray/lorisduray
+
 
 <h3 align="left">Hi 👋, I'm Loris Duray</h3>
 <h4 align="left">A passionate about Data Science 📊</h4>
